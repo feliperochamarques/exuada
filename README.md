@@ -107,4 +107,4 @@ Se a conexão não estiver aberta, as opções de 3 a 12 mostram o aviso "Conex�
 
 - Felipe Rocha
 - Nathan Vitor
-- Pedro Henrique
+- Felipe Carvalho
